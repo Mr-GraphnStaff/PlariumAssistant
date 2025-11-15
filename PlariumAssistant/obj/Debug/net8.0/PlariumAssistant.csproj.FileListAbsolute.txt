@@ -1,0 +1,6 @@
+P:\PlariumAssistant\PlariumAssistant\obj\Debug\net8.0\PlariumAssistant.csproj.AssemblyReference.cache
+P:\PlariumAssistant\PlariumAssistant\obj\Debug\net8.0\PlariumAssistant.GeneratedMSBuildEditorConfig.editorconfig
+P:\PlariumAssistant\PlariumAssistant\obj\Debug\net8.0\PlariumAssistant.AssemblyInfoInputs.cache
+P:\PlariumAssistant\PlariumAssistant\obj\Debug\net8.0\PlariumAssistant.AssemblyInfo.cs
+P:\PlariumAssistant\PlariumAssistant\obj\Debug\net8.0\PlariumAssistant.csproj.CoreCompileInputs.cache
+P:\PlariumAssistant\PlariumAssistant\obj\Debug\net8.0\PlariumAssistant.sourcelink.json

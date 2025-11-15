@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+6fGv0JlX7I=",
+  "success": true,
+  "projectFilePath": "P:\\PlariumAssistant\\PlariumAssistant\\PlariumAssistant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DavidFarris\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.0\\microsoft.win32.systemevents.10.0.0.nupkg.sha512",
+    "C:\\Users\\DavidFarris\\.nuget\\packages\\system.drawing.common\\10.0.0\\system.drawing.common.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
